@@ -2,3 +2,8 @@ h1 {
   font-weight: bold;
   color: blue;
 }
+
+h2.section-header {
+  text-align: center;
+  padding: 20px;
+}
